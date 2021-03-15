@@ -1,4 +1,4 @@
-# Chalkboard Terms and Policies
+# Streamywood Terms and Policies
 
 **Please read the Terms carefully prior to accessing or browsing through the Application or website or availing our services in any manner. Any use/access of our Application and/or services and/or access or browsing of our website, (with or without full payment, registration, subscription) shall be deemed to constitute your acceptance of these terms. If so you do agree with the Terms, please do not register, subscribe to, our avail our services or use/access our Application or website for any reason  whatsoever**
 
@@ -48,7 +48,7 @@ OWN RESPONSIBILITY TO ENSURE THAT SERVICES PROVIDED BY US MEET YOUR
 SPECIFIC REQUIREMENTS.
 
 
-CHALKBORD SHALL NOT, IN ANY MANNER, BE HELD RESPONSIBLE FOR 
+STREAMYWOOD SHALL NOT, IN ANY MANNER, BE HELD RESPONSIBLE FOR 
 THE CONSEQUENCES THAT MAY ARISE IN CASE OF YOUR INCOMPETENCY 
 TO ENTER INTO THIS CONTRACT OR TO ACCEPT THESE TERMS OF SERVICE.
 
